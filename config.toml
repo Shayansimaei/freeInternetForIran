@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'fa-ir'
+title = 'اینترنت بدون فیلتر'
+theme="ace-documentation"
