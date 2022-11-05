@@ -5,10 +5,7 @@ weight = 1
 +++
 
 {{< lead >}}
-Geyt started with Ace docs, the easy way to generate a static website for your project's documentation.
+#### چطوری حکومت فیلتر شکن ها را شناسایی میکند
+برای متوجه شدن بهتر عملکرد دولت در این زمینه باید به تکنلوژی های کشور اصلی توسعه دهنده(چین بپردازیم)
 {{< /lead >}}
-
-Installation and configuration is easy and can be easily applied to any project. No need to be dependent on Python, Ruby or Java. Hugo runs from a simple binary and works through the command line.
-Explore the following pages to learn how to build awesome documentation for your project using Ace.
-
 {{< childpages >}}
